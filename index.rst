@@ -1,5 +1,5 @@
 *****
-Canon Printer Error 5b00
+Canon Printer Error 5100
 *****
 
 .. image:: gett.png
