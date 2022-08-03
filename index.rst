@@ -7,7 +7,7 @@ Cánon Printer Error 5100
 	  :align: center    
 	  :height: 100px    
 	  :alt:    
-	  :target: https://canonprintererror5100.readthedocs.io/en/latest/
+	  :target: https://computersolve.com/canon-printer-error-5100/
 
 Cánon is the most trusted brand for printers. Cánon printers are bought and used by millions of people worldwide for both home and office use. Its printers are well equipped with best technologies. The printers manufactured for office & home use are bundled with loads of features. Just like any other printer or machine, sometimes you may get error or Problems with your Cánon printers. **Cánon Printer Error 5100** is one of those errors which is common & reported by many users worldwide.
 
