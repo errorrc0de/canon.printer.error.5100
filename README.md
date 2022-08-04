@@ -13,3 +13,6 @@ The **Cánon Printer Error 5100** starts to show on the computer screen for vari
 
 **Cánon Printer Error 5100** has been problem with most of the Cánon printer. As we talk specifically that what type of printer is encountered by **Cánon Printer Error 5100** then we can easily say as per our research that almost all type of printer has this problem but Cánon All-in-one inkjet printers (Multifunction printer) has this problem mostly.
 There are other types of printers as well which run into this error sometimes like Cánon Professional inkjet printers, Cánon Photo inkjet printers & Megatank inkjet printers.
+
+
+**Note** - Click here to resolve : **[Canon Printer Error 5100](https://computersolve.com/canon-printer-error-5100/)**
